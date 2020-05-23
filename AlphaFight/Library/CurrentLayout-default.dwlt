@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 19
+  controlID: 62
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -399,9 +399,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.9630112, y: 0.10926196, z: -4.469912}
+    m_Target: {x: 0.106077164, y: 1.0588304, z: -6.044245}
     speed: 2
-    m_Value: {x: 0.9630112, y: 0.10926196, z: -4.469912}
+    m_Value: {x: 0.13708867, y: 1.0130962, z: -6.01834}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -451,9 +451,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10.275673
+    m_Target: 6.879758
     speed: 2
-    m_Value: 10.275673
+    m_Value: 7.203935
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -607,20 +607,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Personagens/PI CHAR
+    - Assets/Personagens/Gohoua/Sprites/WalkFW
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Personagens/PI CHAR
+  - Assets/Personagens/Gohoua/Sprites/WalkFW
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Cliente\Desktop\Game-luta-2d\AlphaFight
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6a340000
-    m_LastClickedID: 13418
-    m_ExpandedIDs: 000000000e340000103400001c34000000ca9a3b
+    scrollPos: {x: 0, y: 314}
+    m_SelectedIDs: 62340000
+    m_LastClickedID: 13410
+    m_ExpandedIDs: 000000000e34000010340000123400001e34000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -679,18 +679,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: PI CHAR
-      m_OriginalName: PI CHAR
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 13418
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 9}
     m_CreateAssetUtility:
@@ -700,7 +700,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 158}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 201
