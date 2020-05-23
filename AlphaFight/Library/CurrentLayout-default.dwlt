@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 62
+  controlID: 63
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 1
-  controlID: 63
+  controlID: 87
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 271}
   m_MaxSize: {x: 14003, y: 10021}
   vertical: 0
-  controlID: 89
+  controlID: 20
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -401,7 +401,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0.106077164, y: 1.0588304, z: -6.044245}
     speed: 2
-    m_Value: {x: 0.13708867, y: 1.0130962, z: -6.01834}
+    m_Value: {x: 0.106077164, y: 1.0588304, z: -6.044245}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -453,7 +453,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 6.879758
     speed: 2
-    m_Value: 7.203935
+    m_Value: 6.879758
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -607,20 +607,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Personagens/Gohoua/Sprites/WalkFW
+    - Assets/Personagens/PI CHAR/Air Dash BK
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Personagens/Gohoua/Sprites/WalkFW
+  - Assets/Personagens/PI CHAR/Air Dash BK
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Cliente\Desktop\Game-luta-2d\AlphaFight
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 314}
-    m_SelectedIDs: 62340000
-    m_LastClickedID: 13410
-    m_ExpandedIDs: 000000000e34000010340000123400001e34000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 8e340000
+    m_LastClickedID: 13454
+    m_ExpandedIDs: 000000003234000034340000363400008c34000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -648,7 +648,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000e3400001034000012340000
+    m_ExpandedIDs: 00000000323400003434000036340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
